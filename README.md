@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SnklpAnand
-- 👀 I’m interested in Data Analytics Field
 - 🌱 Pursuing Data Analytics Specialization 
 - 💞️ Looking for a transition into the Data/Business Analyst Role
 - 📫 Having hands-on experience in SQL,Power BI, Excel, Python, Business Case Studies models
