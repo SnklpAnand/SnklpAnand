@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SnklpAnand
 - 👀 I’m interested in Data Analytics Field
-- 🌱 I’m currently on the Project-Building stage for my Data Analytics Course.
-- 💞️ I’m looking to for a job as a Data / Business Analyst
-- 📫 You can reach me at : sankalpec1031@gmail.com
+- 🌱 Pursuing Data Analytics Specialization 
+- 💞️ Looking for a transition into the Data/Business Analyst Role
+- 📫 Having hands-on experience in SQL,Power BI, Excel, Python, Business Case Studies models
+- ✉  You can reach me at : sankalpec1031@gmail.com
 
 <!---
 SnklpAnand/SnklpAnand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
