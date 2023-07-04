@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SnklpAnand
-- 🌱 Pursuing Data Analytics Specialization 
+- 🌱 Help in analyzing audience data and viewership metrics to extract valuable insights and increase ratings by 11% 
 - 💞️ Looking for a transition into the Data/Business Analyst Role
 - ✎ Having hands-on experience in SQL, Power BI, Excel, Python, Business Case Studies models
-- ✉  You can reach me at : sankalpec1031@gmail.com
+- ✉  You can reach me at: sankalpec1031@gmail.com
 
 <!---
 SnklpAnand/SnklpAnand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
